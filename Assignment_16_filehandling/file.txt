@@ -1,0 +1,13 @@
+
+Member 1:
+Name         :sumit
+Age          :19
+Degree course:BE
+Member 1:
+Name         :abc
+Age          :20
+Degree course:BE
+Member 1:
+Name         :xyz
+Age          :25
+Degree course:MD
